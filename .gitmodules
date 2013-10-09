@@ -1,0 +1,9 @@
+[submodule "chef-golang-web-server-cookbook"]
+	path = chef-golang-web-server-cookbook
+	url = https://github.com/crowdmob/chef-golang-web-server-cookbook
+[submodule "chef-monit"]
+	path = chef-monit
+	url = https://github.com/crowdmob/chef-monit
+[submodule "chef-golang"]
+	path = chef-golang
+	url = https://github.com/crowdmob/chef-golang
