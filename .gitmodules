@@ -1,6 +1,6 @@
 [submodule "golang"]
 	path = golang
-	url = https://github.com/NOX73/chef-golang
+	url = https://github.com/ohrite/chef-golang
 [submodule "monit"]
 	path = monit
 	url = https://github.com/crowdmob/chef-monit
