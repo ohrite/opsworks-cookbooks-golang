@@ -7,3 +7,6 @@
 [submodule "nutty"]
 	path = nutty
 	url = https://github.com/ohrite/chef-golang-web-server-cookbook
+[submodule "git"]
+	path = git
+	url = https://github.com/opscode-cookbooks/git
